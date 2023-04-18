@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "category": "Polo shirt",
+    "gender": "Male",
+    "name": "adidas GOLD áo polo hoạ tiết chuyển động ",
+    "price": 1700000,
+    "quantity": 1116
+  },
+  {
+    "id": 2,
+    "category": "Shoe",
+    "gender": "Female",
+    "name": "adidas Originals giày superstar màu be ",
+    "price": 2500000,
+    "quantity": 1002
+  },
+  {
+    "id": 3,
+    "category": "Shoe-Sandal",
+    "gender": "Male",
+    "name": "adidas Originals dép quai ngang  Adilette",
+    "price": 600000,
+    "quantity": 1700
+  },
+  {
+    "id": 4,
+    "category": "bag",
+    "gender": "male",
+    "name": "adidas GOLF Túi Tote Mini Play Green Round ",
+    "price": 1700000,
+    "quantity": 499
+  },
+  {
+    "id": 5,
+    "category": "Polo",
+    "gender": "Female",
+    "name": "adidas GOLF áo croptop trắng",
+    "price": 1100000,
+    "quantity": 750
+  },
+  {
+    "id": 6,
+    "category": "Shoe-Sandal",
+    "gender": "Male",
+    "name": "adidas Originals giày superstar ",
+    "price": 2000000,
+    "quantity": 1111
+  },
+  {
+    "id": 7,
+    "category": "bag",
+    "gender": "female",
+    "name": "adidas Originals Áo thun Graphic Logo Future Icons adidas",
+    "price": 750000,
+    "quantity": 2302
+  },
+  {
+    "id": 8,
+    "category": "Shoe - Sandal",
+    "gender": "female",
+    "name": "adidas original superstar nữ hồng",
+    "price": 2400000,
+    "quantity": 1592
+  },
+  {
+    "id": 9,
+    "category": "Accessory",
+    "gender": "Female",
+    "name": "khẩu trang adidas GOLF nữ găng tay UV Graphic",
+    "price": 550000,
+    "quantity": 2005
+  },
+  {
+    "id": 10,
+    "category": "Shoe",
+    "gender": "Male",
+    "name": "adidas original giày ba lá trắng ",
+    "price": 700000,
+    "quantity": 590
+  },
+  {
+    "id": 11,
+    "category": "Shoe-Sandal",
+    "gender": "Female",
+    "name": "adidas TENNIS Giày Grand Court ",
+    "price": 1900000,
+    "quantity": 1111
+  },
+  {
+    "id": 12,
+    "category": "Shoe-Sandal",
+    "gender": "Male",
+    "name": "adidas GOLD giày đinh liền Solarmotion",
+    "price": 3600000,
+    "quantity": 912
+  },
+  {
+    "id": 14,
+    "category": "T-Shirt",
+    "gender": "Female",
+    "name": "adidas áo khoác nữ trắng",
+    "price": 1500000,
+    "quantity": 2106
+  },
+  {
+    "id": 15,
+    "category": "t-shirt",
+    "gender": "male",
+    "name": "áo nam adidas",
+    "price": 650000,
+    "quantity": 2116
+  },
+  {
+    "id": 17,
+    "category": "t-shirt",
+    "gender": "female",
+    "name": "ao polo nu trang",
+    "price": 2100000,
+    "quantity": 2500
+  },
+  {
+    "id": 18,
+    "category": "shirt",
+    "gender": "male",
+    "name": "áo ba lá trắng",
+    "price": 200000,
+    "quantity": 1400
+  }
+]

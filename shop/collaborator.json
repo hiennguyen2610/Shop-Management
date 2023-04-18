@@ -1,0 +1,35 @@
+[
+  {
+    "userName": "Quang Hiển",
+    "email": "quanghien@gmail.com",
+    "password": "hien!1212",
+    "phone": "0123456789",
+    "address": {
+      "city": "Hn",
+      "district": "BTL",
+      "street": "-"
+    }
+  },
+  {
+    "userName": "Nga",
+    "email": "nga@gmail.com",
+    "password": "nga!1212",
+    "phone": "0987654321",
+    "address": {
+      "city": "HN",
+      "district": "",
+      "street": ""
+    }
+  },
+  {
+    "userName": "quanghien123",
+    "email": "hien1212@gmail.com",
+    "password": "Hien123!",
+    "phone": "0946156426",
+    "address": {
+      "city": "",
+      "district": "",
+      "street": ""
+    }
+  }
+]
